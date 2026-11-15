@@ -1,0 +1,3 @@
+The actual CSV dataset was not included in the uploaded file. The uploaded file was a Jupyter notebook.
+Download the CSV from the Kaggle Input section, rename it exactly to weather_data.csv, and place it in this folder.
+Then run the notebook and Streamlit app.
